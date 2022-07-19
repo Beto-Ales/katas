@@ -1,0 +1,17 @@
+{
+  "name": "codurance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "Beto-Ales",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "jest": {
+   "testEnvironment": "node"
+  }
+}
